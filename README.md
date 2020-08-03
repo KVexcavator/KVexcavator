@@ -1,18 +1,13 @@
 [![Bagger 288](https://raw.githubusercontent.com/KVexcavator/KVexcavator/master/assets/Bagger288.jpg)](https://ruby-doc.org)
 
-### Hi there 👋
+<h1 align='center'> Hi there!, I’m Vaysheslav :wave:</h1>
 
-<!--
-**KVexcavator/KVexcavator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m Ruby Developer!
+- 🔭 I’m currently working on my very secret project
+- 🌱 I’m currently learning Erlang/Elexir
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Find a permanent job
 
-Here are some ideas to get you started:
+### Connect with me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="send email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" href="mailto:kv_fam@mail.ru"/>][email]
