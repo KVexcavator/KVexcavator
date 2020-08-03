@@ -10,7 +10,6 @@
 
 ### Connect with me: 
 
-<p>
-  <a href="mailto:kv_fam@mail.ru" ><img  alt="send email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" /></a>
-  <a href="skype:kvstudent?call" ><img  alt="call skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/skype.svg" /></a>
-</p>
+<a href="mailto:kv_fam@mail.ru" ><img  alt="send email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" /></a>
+<a href="skype:kvstudent?call" ><img  alt="call skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/skype.svg" /></a>
+
