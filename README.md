@@ -36,3 +36,7 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ubuntu.svg" />
 
 <br />
+
+### Top Languages Card:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KVexcavator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
