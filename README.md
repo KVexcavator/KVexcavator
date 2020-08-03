@@ -1,3 +1,5 @@
+[![Bagger 288](https://raw.githubusercontent.com/KVexcavator/KVexcavator/master/assets/Bagger288.jpg)](https://ruby-doc.org)
+
 ### Hi there 👋
 
 <!--
