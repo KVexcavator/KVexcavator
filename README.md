@@ -36,6 +36,9 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ubuntu.svg" />
 
 <br />
+<br />
+
+---
 
 ### Top Languages Card:
 
