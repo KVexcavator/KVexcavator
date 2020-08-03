@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Find a permanent job
 
-### Connect with me 
+### Connect with me: 
 
-[<img align="left" alt="send email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />][mailto:kv_fam@mail.ru]
+<div>
+  <a href="mailto:kv_fam@mail.ru" align="left"><img  alt="send email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" /></a>
+</div>
