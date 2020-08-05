@@ -17,23 +17,24 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Ruby" width="26px" src="https://cdn.svgporn.com/logos/ruby.svg" />](https://www.ruby-lang.org/en/)
-<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rubyonrails.svg" />
-<img align="left" alt="Elixir" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/elixir.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" />
-<img align="left" alt="Node" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
-<img align="left" alt="PostgesQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/graphql.svg" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
-<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kubernetes.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
-<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vim.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudio.svg" />
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ubuntu.svg" />
+[<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.svgporn.com/logos/rails.svg" />](https://rubyonrails.org/)
+[<img align="left" alt="Erlang" width="26px" src="https://cdn.svgporn.com/logos/erlang.svg" />](https://www.erlang.org/)
+[<img align="left" alt="Elixir" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/elixir.svg" />](https://elixir-lang.org/)
+[<img align="left" alt="Python" width="26px" src="https://cdn.svgporn.com/logos/python.svg" />](https://www.python.org/)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Node" width="26px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](https://nodejs.org/en/)
+[<img align="left" alt="React" width="26px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://dev.mysql.com/)
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="PostgeSQL" width="26px" src="https://cdn.svgporn.com/logos/postgresql.svg" />](https://www.postgresql.org/)
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.svgporn.com/logos/graphql.svg" />](https://graphql.org/)
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />](https://docs.docker.com/)
+[<img align="left" alt="Kubernetes" width="26px" src="https://cdn.svgporn.com/logos/kubernetes.svg" />](https://kubernetes.io/)
+[<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.sv" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
+[<img align="left" alt="Vim" width="26px" src="https://cdn.svgporn.com/logos/vim.svg" />](https://www.vim.org/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com/)
+[<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ubuntu.svg" />](https://help.ubuntu.com/)
 
 <br />
 <br />
