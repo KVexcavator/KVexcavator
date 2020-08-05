@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ruby.svg" />
+[<img align="left" alt="Ruby" width="26px" src="https://cdn.svgporn.com/logos/ruby.svg" />](https://www.ruby-lang.org/en/)
 <img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rubyonrails.svg" />
 <img align="left" alt="Elixir" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/elixir.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
