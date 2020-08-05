@@ -30,7 +30,7 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.svgporn.com/logos/graphql.svg" />](https://graphql.org/)
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />](https://docs.docker.com/)
 [<img align="left" alt="Kubernetes" width="26px" src="https://cdn.svgporn.com/logos/kubernetes.svg" />](https://kubernetes.io/)
-[<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.sv" />](https://git-scm.com/)
+[<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
 [<img align="left" alt="Vim" width="26px" src="https://cdn.svgporn.com/logos/vim.svg" />](https://www.vim.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com/)
