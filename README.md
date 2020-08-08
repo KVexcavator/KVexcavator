@@ -1,7 +1,7 @@
 
-<h1 aling='center'>[![Welcome](https://cynthiasmithdeal.com/i/welcomeBLK.gif)](https://ruby-doc.org)</h1>
+[![Welcome](https://cynthiasmithdeal.com/i/welcomeBLK.gif)](https://ruby-doc.org)
 
-<h1 align='center'> I’m Vaysheslav :wave:</h1>
+<h1> I’m Vaysheslav :wave:</h1>
 
 ## I’m Ruby Developer!
 - 🔭 I’m currently working on my very secret project
