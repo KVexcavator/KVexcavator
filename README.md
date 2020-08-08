@@ -1,7 +1,7 @@
-[![Bagger 288](https://raw.githubusercontent.com/KVexcavator/KVexcavator/master/assets/Bagger288.jpg)](https://ruby-doc.org)
-[![Welcome](https://cynthiasmithdeal.com/i/welcomeBLK.gif)](https://ruby-doc.org)
 
-<h1 align='center'> Hi there!, I’m Vaysheslav :wave:</h1>
+<h1 aling='center'>[![Welcome](https://cynthiasmithdeal.com/i/welcomeBLK.gif)](https://ruby-doc.org)</h1>
+
+<h1 align='center'> I’m Vaysheslav :wave:</h1>
 
 ## I’m Ruby Developer!
 - 🔭 I’m currently working on my very secret project
