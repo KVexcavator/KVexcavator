@@ -38,6 +38,7 @@
 [<img align="left" alt="Vim" width="26px" src="https://cdn.svgporn.com/logos/vim.svg" />](https://www.vim.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/ubuntu.svg" />](https://ubuntu.com/)
+[<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/elm.svg" />](https://elm-lang.org/)
 
 <br />
 <br />
