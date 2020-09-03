@@ -44,7 +44,6 @@
 <br />
 <br />
 
----
 
 ### Top Languages Card:
 
