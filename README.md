@@ -29,6 +29,8 @@
 [<img align="left" alt="Node" width="26px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](https://nodejs.org/en/)
 [<img align="left" alt="React" width="26px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://dev.mysql.com/)
+<br/>
+<br/>
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="PostgeSQL" width="26px" src="https://cdn.svgporn.com/logos/postgresql.svg" />](https://www.postgresql.org/)
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.svgporn.com/logos/graphql.svg" />](https://graphql.org/)
@@ -39,12 +41,13 @@
 [<img align="left" alt="Vim" width="26px" src="https://cdn.svgporn.com/logos/vim.svg" />](https://www.vim.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/ubuntu.svg" />](https://ubuntu.com/)
+<br/>
+<br/>
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/elm.svg" />](https://elm-lang.org/)
 
 <br/>
 <br/>
 <br/>
----
 
 ### Top Languages Card:
 
