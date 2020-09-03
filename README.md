@@ -21,6 +21,7 @@
 
 [<img align="left" alt="Ruby" width="26px" src="https://cdn.svgporn.com/logos/ruby.svg" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.svgporn.com/logos/rails.svg" />](https://rubyonrails.org/)
+[<img align="left" alt="Grape" width="26px" src="http://www.ruby-grape.org/images/logo.png" />](http://www.ruby-grape.org/)
 [<img align="left" alt="Erlang" width="26px" src="https://cdn.svgporn.com/logos/erlang.svg" />](https://www.erlang.org/)
 [<img align="left" alt="Elixir" width="26px" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />](https://elixir-lang.org/)
 [<img align="left" alt="Python" width="26px" src="https://cdn.svgporn.com/logos/python.svg" />](https://www.python.org/)
