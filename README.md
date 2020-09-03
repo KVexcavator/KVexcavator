@@ -41,8 +41,10 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/ubuntu.svg" />](https://ubuntu.com/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/elm.svg" />](https://elm-lang.org/)
 
-
 <br/>
+<br/>
+<br/>
+---
 
 ### Top Languages Card:
 
