@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Find a permanent job
 
-### Connect with me: 
+### Connect with me, Telegram @kvexcavator, or: 
 
 <a href="mailto:str_token@mail.ru" ><img  alt="send email" width="22px" src="https://cdn.svgporn.com/logos/google-gmail.svg" /></a>
 <a href="skype:kvstudent?call" ><img  alt="call skype" width="22px" src="https://cdn.svgporn.com/logos/skype.svg" /></a>
