@@ -6,8 +6,6 @@
 ## I’m Ruby Developer!
 - 🔭 I’m currently working on my very secret project
 - 🌱 I’m currently learning Erlang/Elixir
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Find a permanent job
 
 ### Connect with me, Telegram @kvexcavator, or: 
 
