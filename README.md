@@ -1,6 +1,3 @@
-
-[![Welcome](https://cynthiasmithdeal.com/i/welcomeBLK.gif)](https://ruby-doc.org)
-
 <h1> I’m Vaysheslav </h1>
 <h6><img src="https://cdn.tlgrm.app/img/intro/gallery-1.svg" width="22px" /> @kvexcavator</h6>
 
