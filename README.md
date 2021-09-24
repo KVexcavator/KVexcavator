@@ -2,12 +2,13 @@
 [![Welcome](https://cynthiasmithdeal.com/i/welcomeBLK.gif)](https://ruby-doc.org)
 
 <h1> I’m Vaysheslav </h1>
+<h6><img src="https://cdn.tlgrm.app/img/intro/gallery-1.svg" width="22px" /> @kvexcavator</h6>
 
 ## I’m Ruby Developer!
 - 🔭 I’m currently working on my very secret project
 - 🌱 I’m currently learning Erlang/Elixir
 
-### Connect with me, Telegram @kvexcavator, or: 
+### Connect with me: 
 
 <a href="mailto:str_token@mail.ru" ><img  alt="send email" width="22px" src="https://cdn.svgporn.com/logos/google-gmail.svg" /></a>
 <a href="skype:kvstudent?call" ><img  alt="call skype" width="22px" src="https://cdn.svgporn.com/logos/skype.svg" /></a>
