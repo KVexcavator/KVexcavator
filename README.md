@@ -2,8 +2,8 @@
 <h6><img src="https://cdn.tlgrm.app/img/intro/gallery-1.svg" width="22px" /> @kvexcavator</h6>
 
 ## I’m Ruby Developer!
-- 🔭 I’m currently working on my very secret project
-- 🌱 I’m currently learning Erlang/Elixir
+- 🔭 I’m currently working on real React project
+- 🌱 I’m currently lear Go
 
 ### Connect with me: 
 
