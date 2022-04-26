@@ -1,7 +1,7 @@
 <h1> I’m Vaysheslav </h1>
 
 
-## I’m Ruby Developer!
+## I’m Ruby-React and Go Developer!
 - 🔭 I’m currently working on real RoR-React project
 - 🌱 I’m currently learn Go
 
