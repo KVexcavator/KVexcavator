@@ -2,8 +2,8 @@
 
 
 ## I’m Ruby Developer!
-- 🔭 I’m currently working on real React project
-- 🌱 I’m currently lear Go
+- 🔭 I’m currently working on real RoR-React project
+- 🌱 I’m currently learn Go
 
 ### Connect with me: 
 
