@@ -18,9 +18,7 @@
 [<img align="left" alt="Ruby" width="26px" src="https://cdn.svgporn.com/logos/ruby.svg" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.svgporn.com/logos/rails.svg" />](https://rubyonrails.org/)
 [<img align="left" alt="Grape" width="26px" src="http://www.ruby-grape.org/images/logo.png" />](http://www.ruby-grape.org/)
-[<img align="left" alt="Erlang" width="26px" src="https://cdn.svgporn.com/logos/erlang.svg" />](https://www.erlang.org/)
-[<img align="left" alt="Elixir" width="26px" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />](https://elixir-lang.org/)
-[<img align="left" alt="Python" width="26px" src="https://cdn.svgporn.com/logos/python.svg" />](https://www.python.org/)
+[<img align="left" alt="Erlang" width="26px" src="https://media.proglib.io/posts/2020/08/01/d44659c7283617fcc42e413438f28963.png" />](https://go.dev/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="Node" width="26px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](https://nodejs.org/en/)
 [<img align="left" alt="React" width="26px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
@@ -34,13 +32,9 @@
 [<img align="left" alt="Kubernetes" width="26px" src="https://cdn.svgporn.com/logos/kubernetes.svg" />](https://kubernetes.io/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
-[<img align="left" alt="Vim" width="26px" src="https://cdn.svgporn.com/logos/vim.svg" />](https://www.vim.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/ubuntu.svg" />](https://ubuntu.com/)
 <br/>
-<br/>
-[<img align="left" alt="Ubuntu" width="26px" src="https://cdn.svgporn.com/logos/elm.svg" />](https://elm-lang.org/)
-
 <br/>
 <br/>
 <br/>
