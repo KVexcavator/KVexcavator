@@ -17,8 +17,7 @@
 
 [<img align="left" alt="Ruby" width="26px" src="https://cdn.svgporn.com/logos/ruby.svg" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.svgporn.com/logos/rails.svg" />](https://rubyonrails.org/)
-[<img align="left" alt="Grape" width="26px" src="http://www.ruby-grape.org/images/logo.png" />](http://www.ruby-grape.org/)
-[<img align="left" alt="Erlang" width="26px" src="https://media.proglib.io/posts/2020/08/01/d44659c7283617fcc42e413438f28963.png" />](https://go.dev/)
+[<img align="left" alt="Go" width="26px" src="https://media.proglib.io/posts/2020/08/01/d44659c7283617fcc42e413438f28963.png" />](https://go.dev/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="Node" width="26px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](https://nodejs.org/en/)
 [<img align="left" alt="React" width="26px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
