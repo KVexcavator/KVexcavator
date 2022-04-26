@@ -3,14 +3,8 @@
 
 ## I’m Ruby-React and Go Developer!
 - 🔭 I’m currently working on real RoR-React project
-- 🌱 I’m currently learn Go
-
 ### Connect with me Telegram: 
-
 <h6><img src="https://cdn.tlgrm.app/img/intro/gallery-1.svg" width="22px" /> @kvexcavator</h6>
-<br/>
-
----
 
 ### Languages and Tools:
 
