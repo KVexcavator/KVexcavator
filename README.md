@@ -6,6 +6,10 @@
 ### Connect with me Telegram: 
 <h6><img src="https://cdn.tlgrm.app/img/intro/gallery-1.svg" width="22px" /> @kvexcavator</h6>
 
+### Donnats for my cats:
+<h4>Visa-card</h4>
+<h5>4400 4302 1080 7092</h4>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Ruby" width="26px" src="https://cdn.svgporn.com/logos/ruby.svg" />](https://www.ruby-lang.org/en/)
