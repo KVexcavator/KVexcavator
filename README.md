@@ -1,12 +1,12 @@
 <h1> I’m Vaysheslav </h1>
 
 
-## I’m Ruby-React and Go Developer!
+## I’m Ruby developer and digital-gapsy!
 - 🔭 I’m currently working on real RoR-React project
 ### Connect with me Telegram: 
 <h6><img src="https://cdn.tlgrm.app/img/intro/gallery-1.svg" width="22px" /> @kvexcavator</h6>
 
-### Donnats for my cats:
+### Donuts for my cats:
 <h4>Visa-card</h4>
 <h5>4400 4302 1080 7092</h4>
 
