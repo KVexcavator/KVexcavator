@@ -24,7 +24,7 @@
 [<img align="left" alt="PostgeSQL" width="26px" src="https://cdn.svgporn.com/logos/postgresql.svg" />](https://www.postgresql.org/)
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.svgporn.com/logos/graphql.svg" />](https://graphql.org/)
 [<img align="left" alt="Docker" width="26px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />](https://www.docker.com/)
-[<img align="left" alt="Kubernetes" width="26px" src="https://cdn.svgporn.com/logos/kubernetes.svg" />](https://kubernetes.io/)
+[<img align="left" alt="Nginx" width="26px" src="https://cdn.svgporn.com/logos/nginx.svg" />](https://www.f5.com/go/product/welcome-to-nginx)
 [<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com/)
 <br/>
 <br/>
