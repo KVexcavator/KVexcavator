@@ -1,8 +1,5 @@
-<h1> I’m ℣ʸᵃᶜʰᵉˢᶫᵃᵛ </h1>
+<h1> Hello everybody. My name ℣ʸᵃᶜʰᵉˢᶫᵃᵛ and I'm Ruby,React,... Developer </h1>
 
-
-## I’m Ruby-React developer and digital-gapsy!
-- 🔭 I’m currently working on real RoR-React project
 ### My Telegram: 
 <h6><img src="https://cdn.svgporn.com/logos/telegram.svg" width="22px" /> @kvexcavator</h6>
 
