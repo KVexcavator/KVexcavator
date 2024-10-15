@@ -4,7 +4,7 @@
 ## I’m Ruby developer and digital-gapsy!
 - 🔭 I’m currently working on real RoR-React project
 ### My Telegram: 
-<h6><img src="https://cdn.tlgrm.app/img/intro/gallery-1.svg" width="22px" /> @kvexcavator</h6>
+<h6><img src="https://cdn.svgporn.com/logos/telegram.svg" width="22px" /> @kvexcavator</h6>
 
 ### Donuts for my cats:
 <h4>Visa-card</h4>
