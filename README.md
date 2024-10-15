@@ -1,7 +1,4 @@
 <h1> Hello everybody. My name ℣ʸᵃᶜʰᵉˢᶫᵃᵛ and I'm Ruby,React,... Developer </h1>
-<br/>
-![Animation](https://i.gifer.com/7fod.gif)
-<br/>
 
 ### My Telegram: 
 <h6><img src="https://cdn.svgporn.com/logos/telegram.svg" width="22px" /> @kvexcavator</h6>
