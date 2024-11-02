@@ -1,4 +1,6 @@
-<h1> Hello everybody. My name ℣ʸᵃᶜʰᵉˢᶫᵃᵛ and I'm Ruby,React,... Developer </h1>
+<h1> Hello everybody. My name ℣ʸᵃᶜʰᵉˢᶫᵃᵛ and I'm my mom's programmer </h1>
+<br />
+<h4>If you need to install a game, fix a network cable or write an application, just pay me a lot of money</h4>
 
 ### My Telegram: 
 <h6><img src="https://cdn.svgporn.com/logos/telegram.svg" width="22px" /> @kvexcavator</h6>
