@@ -1,5 +1,5 @@
 <h1> Hello everybody. My name ℣ʸᵃᶜʰᵉˢᶫᵃᵛ </h1>
-<p>I'm Russian Software Engineer.</p>
+<p>I'm Software Engineer.</p>
 <p>Right now I live in Kazakhstan and I am looking for a job in a  friendly international company.</p>
 <br />
 
